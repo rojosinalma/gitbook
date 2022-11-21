@@ -1,4 +1,3 @@
 # Table of contents
 
-* [/](README.md)
-
+* [Install raspi-config in ubuntu server](README.md)
